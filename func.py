@@ -1,3 +1,3 @@
-hola = 'mondongon mondonguito'
+hola = 'mondongo mondonguito'
 print("no hay mondongo")
 print(hola)
