@@ -1,3 +1,3 @@
-hola = 'mondon mondonguito'
-print("no hay mondongo")
+hola = 'mondongo mondonguito'
+print("si hay mondongo")
 print(hola)
